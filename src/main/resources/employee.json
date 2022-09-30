@@ -1,0 +1,29 @@
+{
+  "empCode": "106",
+  "fName": "Kayers",
+  "mName": "Ekta Bisht",
+  "date": "2022-08-06",
+  "iName": "P Salt",
+  "gender": "M",
+  "phoneNo": 9976788896,
+  "addressList": [
+    {
+      "empId": 9,
+      "line1": "new york",
+      "line2": "Washigton",
+      "city": "Bokaro",
+      "state": "Jharkhand",
+      "country": "India",
+      "pinCode": 829132
+    },
+    {
+      "empId": 10,
+      "line1": "Bhanbaridah",
+      "line2": "Ranchi",
+      "city": "Nirsa",
+      "state": "Jharkhand",
+      "country": "India",
+      "pinCode": 876564
+    }
+  ]
+}
